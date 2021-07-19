@@ -1,4 +1,4 @@
-# Matheus Cerqueira :man_technologist:
+# Matheus Cerqueira
 
 Hi! I'm Matheus, a Computer Science student at University of São Paulo.
 
