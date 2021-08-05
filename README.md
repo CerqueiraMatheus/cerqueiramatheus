@@ -1,4 +1,4 @@
-# Matheus Cerqueira
+# Hey there! I'm Matheus Cerqueira ;)
 
 Hi! I'm Matheus, a Computer Science student at University of São Paulo.
 
